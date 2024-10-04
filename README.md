@@ -1,1 +1,25 @@
-# Skin-Cancer-Malignancy-Detection-on-ISIC-2024-Skin-Cancer-Detection-with-3D-TBP-Competition-Dataset
+# ISIC-2024-Skin-Cancer-Malignancy-Detection
+
+## Project Description
+
+## Performance Evaluation Parameter
+
+## Data Outline
+
+## Model Overview
+
+### Resnet-34
+
+#### Image Processing
+
+### Light Gradient Boosting Machine
+
+#### Hyperparameter Tuning 
+
+## Model Performance 
+
+| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid pAUC** | **Test pAUC** |
+|------------------|-------------------------------|------------|-------------------|-----------------|----------|
+| -         | -  | -        | -          | -    |
+
+## Future Works
