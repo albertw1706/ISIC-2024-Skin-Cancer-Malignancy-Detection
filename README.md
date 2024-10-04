@@ -12,14 +12,20 @@
 
 #### Image Processing
 
+#### Training 
+
 ### Light Gradient Boosting Machine
 
 #### Hyperparameter Tuning 
+
+#### Training
 
 ## Model Performance 
 
 | **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid pAUC** | **Test pAUC** |
 |------------------|-------------------------------|------------|-------------------|-----------------|----------|
 | -         | -  | -        | -          | -    |
+
+## Model Availability
 
 ## Future Works
