@@ -1,4 +1,4 @@
-# ISIC-2024-Skin-Cancer-Malignancy-Detection
+# ISIC 2024 Skin Cancer Malignancy Detection
 
 ## Project Description
 
