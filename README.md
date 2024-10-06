@@ -10,6 +10,8 @@
 
 ### Resnet-34
 
+https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html
+
 #### Image Processing
 
 #### Training 
