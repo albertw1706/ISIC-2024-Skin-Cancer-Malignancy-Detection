@@ -30,7 +30,7 @@ https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.htm
 
 ## Model Availability
 
-Model is available in [Hugging Face](https://huggingface.co/microsoft/resnet-50](https://huggingface.co/albertw1706/resnet34_skin_cancer_malignancy_detection)
+Model is available in [Hugging Face](https://huggingface.co/albertw1706/resnet34_skin_cancer_malignancy_detection)
 
 ## Future Works
 
