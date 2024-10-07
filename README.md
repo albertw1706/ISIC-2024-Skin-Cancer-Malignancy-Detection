@@ -26,12 +26,12 @@ https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.htm
 
 | **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid pAUC** | **Test pAUC** |
 |------------------|-------------------------------|------------|-------------------|-----------------|
-| Resnet34 Fold 0         | -  | -        | -          | -    |
-| Resnet34 Fold 1         | -  | -        | -          | -    |
-| Resnet34 Fold 2         | -  | -        | -          | -    |
-| Resnet34 Fold 3         | -  | -        | -          | -    |
-| Resnet34 Fold 4         | -  | -        | -          | -    |
-| -         | -  | -        | -          | -    |
+| Resnet34 Fold 0         | 15  | -        | -          | -    |
+| Resnet34 Fold 1         | 15  | -        | -          | -    |
+| Resnet34 Fold 2         | 15  | -        | -          | -    |
+| Resnet34 Fold 3         | 15  | -        | -          | -    |
+| Resnet34 Fold 4         | 15  | -        | -          | -    |
+| LGBM         | 40  | -        | -          | -    |
 
 ## Model Availability
 
