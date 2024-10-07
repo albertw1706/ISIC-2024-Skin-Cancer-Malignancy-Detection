@@ -32,7 +32,7 @@ https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.htm
 
 ## Future Works
 
-## Contributions
+## Contributors
 - Albert Widjaja = Lead contributor and primary developer
 - Andrew Ngadiman = Lead contributor and primary developer
 
