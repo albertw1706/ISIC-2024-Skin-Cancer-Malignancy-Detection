@@ -64,6 +64,7 @@ def Objective(trial):
     train_df_dataset = lgb.Dataset(
     X_train,
     y_train,
+    # feature_names=X.columns.tolist()
     categorical_feature=df_test1_cols,
     free_raw_data=False
 )
