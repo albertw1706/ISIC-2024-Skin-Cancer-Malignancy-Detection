@@ -76,7 +76,7 @@ def Objective(trial):
         num_boost_round=num_boost_round,
         feval=pauc_80,               # Custom evaluation function
         callbacks=[
-            lgb.early_stopping(stopping_rounds=40),
+            lgb.early_stopping(stopping_rounds=50),
             lgb.log_evaluation(20)
         ]
     )
