@@ -31,7 +31,7 @@ https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.htm
 | Resnet34 Fold 2         | 15  | -        | -          | -    |
 | Resnet34 Fold 3         | 15  | -        | -          | -    |
 | Resnet34 Fold 4         | 15  | -        | -          | -    |
-| LGBM         | 50  | 561        | 0.149          |     |
+| LGBM         | 50  | 561        | 0.149          |  0.13712   |
 
 ## Model Availability
 
