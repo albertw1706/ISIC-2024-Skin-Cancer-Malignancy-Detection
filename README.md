@@ -14,6 +14,8 @@ https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.htm
 
 #### Image Processing
 
+https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dihub 
+
 #### Training 
 
 ### Light Gradient Boosting Machine
