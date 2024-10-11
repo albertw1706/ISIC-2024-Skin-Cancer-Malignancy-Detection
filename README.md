@@ -28,11 +28,11 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 
 | **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid pAUC** | **Test pAUC** |
 |------------------|-------------------------------|------------|-------------------|-----------------|
-| Resnet34 Fold 0         | 15  | -        | 0.120          | -    |
-| Resnet34 Fold 1         | 15  | -        | 0.192          | -    |
-| Resnet34 Fold 2         | 15  | -        | 0.194          | -    |
-| Resnet34 Fold 3         | 15  | -        | 0.193          | -    |
-| Resnet34 Fold 4         | 15  | -        | 0.195          | -    |
+| Resnet34 Fold 0         | 15  | 13        | 0.120          | -    |
+| Resnet34 Fold 1         | 15  | 11        | 0.192          | -    |
+| Resnet34 Fold 2         | 15  | 43        | 0.194          | -    |
+| Resnet34 Fold 3         | 15  | 16        | 0.193          | -    |
+| Resnet34 Fold 4         | 15  | 6        | 0.195          | -    |
 | LGBM         | 50  | 561        | 0.149          |  0.13712   |
 
 ## Model Availability
