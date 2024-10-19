@@ -38,15 +38,14 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 
 ## Model Performance 
 
-| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid set pAUC** | **Test set pAUC** |
-|------------------|-------------------------------|------------|-------------------|-----------------|
-| Resnet34 Fold 0         | 15  | 13        | 0.120          | -    |
-| Resnet34 Fold 1         | 15  | 11        | 0.192          | -    |
-| Resnet34 Fold 2         | 15  | 43        | 0.194          | -    |
-| Resnet34 Fold 3         | 15  | 16        | 0.193          | -    |
-| Resnet34 Fold 4         | 15  | 6        | 0.195          | -    |
-| LGBM         | 50  | 561        | 0.149          |  0.13712   |
-* Empty test set pAUC was because the notebook ran past the 12-hour run-time limit
+| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid set pAUC** |
+|------------------|-------------------------------|------------|-------------------|
+| Resnet34 Fold 0         | 15  | 13        | 0.120          |
+| Resnet34 Fold 1         | 15  | 11        | 0.192          |
+| Resnet34 Fold 2         | 15  | 43        | 0.194          |
+| Resnet34 Fold 3         | 15  | 16        | 0.193          |
+| Resnet34 Fold 4         | 15  | 6        | 0.195          |
+| LGBM         | 50  | 561        | 0.149          |
 
 ## Model Availability
 
