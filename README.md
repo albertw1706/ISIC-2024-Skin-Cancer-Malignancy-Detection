@@ -5,11 +5,9 @@
 ## Performance Evaluation Parameter
 
 ### Partial Area Under the ROC Curve (pAUC)
-  
 - The model was evaluated with the partial area under the ROC curve (pAUC) parameter above 80% true positive rate (TPR) for binary classification of malignant examples.
 
 ## Data Outline
-
 - The data used for training and validation set comes from the SLICE-3D dataset developed by the International Skin Imaging Collaboration.
 
 #### Image data
@@ -54,6 +52,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 Model is available at [Hugging Face](https://huggingface.co/albertw1706/resnet34_skin_cancer_malignancy_detection)
 
 ## Future Works
+- Apply 
 
 ## Contributors
 - Albert Widjaja = Lead contributor and primary developer
