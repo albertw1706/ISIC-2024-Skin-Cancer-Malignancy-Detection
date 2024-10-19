@@ -10,7 +10,7 @@ The model was evaluated with the partial area under the ROC curve (pAUC) paramet
 
 ## Data Outline
 
-### The data used for training and validation set comes from the SLICE-3D dataset
+#### The data used for training and validation set comes from the SLICE-3D dataset
 
 #### Image data
 
