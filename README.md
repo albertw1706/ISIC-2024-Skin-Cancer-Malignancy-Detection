@@ -56,7 +56,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 Model is available at [Hugging Face](https://huggingface.co/albertw1706/resnet34_skin_cancer_malignancy_detection)
 
 ## Future Works
-- Apply multiprocessing for each image preprocessing techniques applied to save time. 
+- Apply multiprocessing for each image preprocessing technique to save notebook run-time. 
 
 ## Contributors
 - Albert Widjaja = Lead contributor and primary developer
