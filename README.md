@@ -48,7 +48,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 | LGBM         | 50  | 561        | 0.149          |
 
 *Note:
-- Early Stopping Epoch Parameter :
+- Early Stopping Epoch Parameter : Number of training epochs to wait before stopping if the model's performance on the validation set does not improve
 - Valid Set pAUC : pAUC results from assessing data from the validation dataset during model training
 
 ## Model Availability
