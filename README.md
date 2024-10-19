@@ -14,7 +14,7 @@
 
 #### Image data
 
-- 401,059 JPEG of 15mm-by-15mm field-of-view images of skin lesion crops that centered on distinct lesions from the 3D total body photographs (TBP). The images ranges from ... pixels to 
+- 401,059 15mm-by-15mm field-of-view images of skin lesion crops that centered on distinct lesions from the 3D total body photographs (TBP) in JPEG. The images ranges from ... pixels to 
 
 #### Tabular data
 
