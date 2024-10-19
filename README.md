@@ -18,6 +18,8 @@
 
 #### Tabular data
 
+- Metadata of the 401,059 samples that include patient demographics (age, sex), anatomical location, lesion characteristics (location, size, shape, and color features), lesion metrics (area, perimeter, color irregularity, contrast, asymmetry), 3D coordinates, etc. 
+
 ## Model Overview
 
 ### Resnet-34
