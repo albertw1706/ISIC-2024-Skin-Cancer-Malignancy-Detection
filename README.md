@@ -46,6 +46,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 | Resnet34 Fold 3         | 15  | 16        | 0.193          | -    |
 | Resnet34 Fold 4         | 15  | 6        | 0.195          | -    |
 | LGBM         | 50  | 561        | 0.149          |  0.13712   |
+* Empty test set pAUC was because the notebook ran past the 12-hour run-time limit
 
 ## Model Availability
 
