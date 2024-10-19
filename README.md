@@ -10,11 +10,11 @@
 
 ## Data Outline
 
-#### The data used for training and validation set comes from the SLICE-3D dataset
+- The data used for training and validation set comes from the SLICE-3D dataset developed by the International Skin Imaging Collaboration.
 
 #### Image data
 
-401,059 JPEG of 15mm-by-15mm field-of-view images of skin lesion crops that centered on distinct lesions from the 3D total body photographs (TBP). The images ranges from ... pixels to 
+- 401,059 JPEG of 15mm-by-15mm field-of-view images of skin lesion crops that centered on distinct lesions from the 3D total body photographs (TBP). The images ranges from ... pixels to 
 
 #### Tabular data
 
