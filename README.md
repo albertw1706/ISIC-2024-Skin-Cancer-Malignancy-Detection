@@ -38,7 +38,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 
 ## Model Performance 
 
-| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid set pAUC** |
+| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid Set pAUC** |
 |------------------|-------------------------------|------------|-------------------|
 | Resnet34 Fold 0         | 15  | 13        | 0.120          |
 | Resnet34 Fold 1         | 15  | 11        | 0.192          |
@@ -46,6 +46,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 | Resnet34 Fold 3         | 15  | 16        | 0.193          |
 | Resnet34 Fold 4         | 15  | 6        | 0.195          |
 | LGBM         | 50  | 561        | 0.149          |
+*Note:
+- Early Stopping Epoch Parameter :
+- Valid Set pAUC : pAUC results from assessing data from the validation dataset during model training
 
 ## Model Availability
 
