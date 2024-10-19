@@ -10,6 +10,14 @@ The model was evaluated with the partial area under the ROC curve (pAUC) paramet
 
 ## Data Outline
 
+The data used for training and validation set comes from the SLICE-3D dataset
+
+### Image data
+
+401,059 JPEG 15mm-by-15mm field-of-view images of skin lesion crops derived that centered on distinct lesions from the 3D total body photographs (TBP) that ranges from  
+
+### Tabular data
+
 ## Model Overview
 
 ### Resnet-34
