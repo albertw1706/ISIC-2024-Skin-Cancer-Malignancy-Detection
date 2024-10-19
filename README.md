@@ -30,7 +30,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 
 #### Training 
 
-### Light Gradient Boosting Machine
+### Light Gradient Boosting Machine (LGBM)
 
 #### Hyperparameter Tuning 
 
