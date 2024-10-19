@@ -40,7 +40,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0010482597000206?via%3Dih
 
 ## Model Performance 
 
-| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid pAUC** | **Test pAUC** |
+| **Model** | **Early Stopping Epoch Parameter** | **Epochs** | **Valid set pAUC** | **Test set pAUC** |
 |------------------|-------------------------------|------------|-------------------|-----------------|
 | Resnet34 Fold 0         | 15  | 13        | 0.120          | -    |
 | Resnet34 Fold 1         | 15  | 11        | 0.192          | -    |
