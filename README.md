@@ -1,5 +1,7 @@
 # ISIC 2024 Skin Cancer Malignancy Detection
 
+-----------------
+
 ## Project Description
 
 This project aims to develop an algorithm to detect skin cancer malignancy based on the images and metadata of each samples. 
