@@ -2,6 +2,8 @@
 
 ## Project Description
 
+This project aims to develop an algorithm to detect skin cancer malignancy based on the images and metadata of each samples. 
+
 ## Performance Evaluation Parameter
 
 ### Partial Area Under the ROC Curve (pAUC)
