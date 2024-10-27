@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to develop an algorithm to detect skin cancer malignancy based on the images and metadata of each samples. 
+Early detection is crucial for surviving skin cancer, but many people don't have access to skin specialists. In recent years, AI algorithms with dermoscopy have proven valuable in aiding clinicians with the diagnosis of melanoma, basal cell carcinoma, and squamous cell carcinoma. Screening tools could particularly help underserved communities catch skin cancer early, which is vital for patient survival. However, screening with dermatoscopes would be a challenge as specialized tools to obtain these images are generally available only at dermatology clinics. For AI to help people in general medical practices or at home, it needs to work well with lower-quality images. The goal of this project is to develop an AI algorithm to detect skin cancer malignancy based on the 3D total body photography images that resembles cell phone photos and metadata of each patients.
 
 ## Performance Evaluation Parameter
 
