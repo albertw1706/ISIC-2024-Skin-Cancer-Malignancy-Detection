@@ -24,7 +24,8 @@ Early detection is crucial for surviving skin cancer, but many people don't have
 
 ### Resnet-34
 
-https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html
+The model used for the image classification task was the Resnet-34 pre-trained on the ImageNet-1K dataset with input size 224x224 obtained from [Pytorch](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html)
+
 
 #### Image Preprocessing
 
