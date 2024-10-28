@@ -10,7 +10,7 @@ Early detection is crucial for surviving skin cancer, but many people don't have
 - The model was evaluated with the partial area under the ROC curve (pAUC) parameter above 80% true positive rate (TPR) for binary classification of malignant examples.
 
 ## Data Outline
-- The data used for training and validation set comes from the SLICE-3D dataset developed by the International Skin Imaging Collaboration. The total samples were 401,059 with 393 samples were malignant and 400,666 samples were benign.
+- The data used for training and validation set comes from the [SLICE-3D](https://challenge2024.isic-archive.com) dataset developed by the International Skin Imaging Collaboration. The total samples were 401,059 with 393 samples were malignant and 400,666 samples were benign.
 
 #### Image data
 
