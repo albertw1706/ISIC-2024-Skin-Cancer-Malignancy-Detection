@@ -49,6 +49,12 @@ Most techniques applied in the image preprocessing steps were inspired by Hoshya
 
 #### Hyperparameter Tuning 
 
+- The hyperparameter tuning process was processed using [Optuna](https://optuna.org) that implemented bayesian optimization for efficient parameter search.
+- The hyperparameter search explores several key parameters:
+    - num_leaves and min_data_in_leaf to control the tree structure
+    - lambda_l1 and lambda_l2 for regularization, bagging_freq and feature_fraction to manage bagging and feature selection
+    - num_boost_round to set the number of boosting rounds
+
 #### Training
 
 ## Model Performance 
