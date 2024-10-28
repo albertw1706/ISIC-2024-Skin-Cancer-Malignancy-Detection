@@ -26,7 +26,6 @@ Early detection is crucial for surviving skin cancer, but many people don't have
 
 The model used for the image classification task was the Resnet-34 pre-trained on the ImageNet-1K dataset with input size 224x224 obtained from [Pytorch](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html)
 
-
 #### Image Preprocessing
 
 Most techniques applied in the image preprocessing steps were inspired by Hoshyar et al. (2014). The preprocessing steps, in the following order, are: 
@@ -36,7 +35,9 @@ Most techniques applied in the image preprocessing steps were inspired by Hoshya
 - Wiener Filter :
 - Contrast Enhancement : 
 
-#### Training 
+#### Training
+
+The training process utilize 
 
 -------------
 ### Light Gradient Boosting Machine (LGBM)
