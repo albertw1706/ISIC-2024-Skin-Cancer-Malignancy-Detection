@@ -32,7 +32,7 @@ Most techniques applied in the image preprocessing steps were inspired by Hoshya
 - Image resize : The images are resized to 224x224 pixels to match the input size required by the model.
 - Dullrazor algorithm : Developed by Lee et al. (1997), is used to remove thick hairs that may obscure lesions in the image.
 - Median Filter : A non-linear filter applied to reduce "salt-and-pepper" noise, which smooths the image without blurring important features.
-- Wiener Filter : An adaptive filter used to deblur images. According to Hoshyar et al. (2014), wiener filter is considered one of the most effective and widely used techniques for de-blurring that also reduces noise in medical applications.
+- Wiener Filter : An adaptive filter used to deblur images. According to Hoshyar et al. (2014), wiener filter is considered one of the most effective and widely used techniques for de-blurring and noise reduction in medical applications.
 - Contrast Enhancement : This step improves the visibility of features by increasing the contrast in the image, making details in lesions and surrounding tissue more distinguishable for the model.
 
 #### Training
@@ -49,7 +49,7 @@ Most techniques applied in the image preprocessing steps were inspired by Hoshya
 
 #### Feature Selection
 
-The feature selection process was explained in the [plots+markdown notebook](plots+markdown.ipynb) 
+The feature selection process was explained in the [plots+markdown notebook](plots+markdown.ipynb).
 
 #### Hyperparameter Tuning 
 
