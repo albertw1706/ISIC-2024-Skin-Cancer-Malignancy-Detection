@@ -37,7 +37,12 @@ Most techniques applied in the image preprocessing steps were inspired by Hoshya
 
 #### Training
 
-The training process consists of 5-fold cross-validation to ensure the models were trained on the whole dataset. A weighted random sampler was used to apply weight in the sampling method due to a severely imbalanced dataset where 20,000 samples were used for training and 4,000 samples were used for validation per epoch. The weights were assigned based on the number of samples per class with each sample's weight being inversely proportional to its class frequency. The batch size was effectively set to 512 by using 8 mini-batches of size 64 and accumulating gradients across these mini-batches before updating the model weights. The maximum epochs per model was 100 with early stopping implemented on 15 epochs. The learning rate starts from 0.01 and is automatically reduced when the validation loss stops improving (plateaus) for 5 consecutive epochs. This reduction helps the model converge better by allowing it to make finer adjustments in later stages of training. Finally, the AdamW optimizer (Adam optimizer with weight decay applied directly to the weights themselves during each update step) was implemented to reduce overfitting and achieve smoother convergence.
+- The training process consists of 5-fold cross-validation to ensure the models were trained on the whole dataset.
+- A weighted random sampler was used to apply weight in the sampling method due to a severely imbalanced dataset where 20,000 samples were used for training and 4,000 samples were used for validation per epoch. The weights were assigned based on the number of samples per class with each sample's weight being inversely proportional to its class frequency.
+- The batch size was effectively set to 512 by using 8 mini-batches of size 64 and accumulating gradients across these mini-batches before updating the model weights.
+- The maximum epochs per model was 100 with early stopping implemented on 15 epochs.
+- The learning rate starts from 0.01 and is automatically reduced when the validation loss stops improving (plateaus) for 5 consecutive epochs. This reduction helps the model converge better by allowing it to make finer adjustments in later stages of training.
+- Finally, the AdamW optimizer (Adam optimizer with weight decay applied directly to the weights themselves during each update step) was implemented to reduce overfitting and achieve smoother convergence.
 
 -------------
 ### Light Gradient Boosting Machine (LGBM)
