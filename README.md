@@ -1,4 +1,4 @@
-# ISIC 2024 Skin Cancer Malignancy Detection
+# Leveraging ResNet and LightGBM for Skin Cancer Detection on ISIC 2024
 
 ## Project Description
 
