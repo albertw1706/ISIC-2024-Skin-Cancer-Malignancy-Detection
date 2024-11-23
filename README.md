@@ -1,4 +1,4 @@
-# Leveraging ResNet and LightGBM for Skin Cancer Detection on ISIC 2024
+# Leveraging ResNet and LightGBM for Skin Cancer Detection on ISIC 2024 Dataset
 
 ## Project Description
 
